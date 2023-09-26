@@ -1,0 +1,48 @@
+1. Write an efficient program to find the sum of contiguous subarray within a one-dimensional array of numbers which has the largest sum. 
+
+Solution :- https://youtu.be/n3weh4EK3bI
+
+2. You are given a list of n-1 integers and these integers are in the range of 1 to n. There are no duplicates in list. One of the integers is missing in the list. Write an efficient code to find the missing integer. 
+
+Solution :- https://youtu.be/ewpxETYkJJ8
+
+3. Given an unsorted array of nonnegative integers, find a contiguous subarray which adds to a given number. 
+
+Solution : https://youtu.be/oISg_wdTn6Y
+
+4. Given an unsorted array of integers, find a subarray which adds to a given number. If there are more than one subarrays with sum as the given number, print any of them. 
+
+Solution :- https://youtu.be/0Cr_6R9CJt8
+
+
+5. Write a program to sort an array of 0's,1's and 2's in ascending order. 
+
+Solution :-  https://youtu.be/s7zkCv5LaS4
+
+
+6. Equilibrium index of an array is an index such that the sum of elements at lower indexes is equal to the sum of elements at higher indexes. 
+
+Solution :- https://youtu.be/LwlyAwS4Wb8
+
+
+7. Write a program to print all the LEADERS in the array. 
+
+Solution:- https://youtu.be/c8UU5YJAPbM
+
+
+
+
+
+8. Given an array and a number k where k is smaller than size of array, we need to find the k’th smallest element in the given array. It is given that all array elements are distinct. 
+
+Solution:- https://youtu.be/Un--lZjw51g
+
+
+9. Given a 2D array, print it in spiral form.  
+
+Solution:-  https://youtu.be/GmqXh3Pn0k8
+
+
+10. Print the elements of an array in the decreasing frequency if 2 numbers have same frequency then print the one which came first. 
+
+Solution:- https://youtu.be/ONcRtKjg3R8
